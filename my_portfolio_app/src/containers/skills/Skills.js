@@ -23,7 +23,7 @@ export default function Skills() {
               <img
                 className="man_working"
                 alt="Man Working"
-                src={require("../../assets/images/updated_1.jpg")}
+                src={require("../../assets/images/man_work.WEBP")}
               ></img>
             )}
           </div>
