@@ -21,7 +21,7 @@ export default function Skills() {
               <DisplayLottie animationData={codingPerson} />
             ) : (
               <img
-                className="man_working bg-dark"
+                className="man_working"
                 alt="Man Working"
                 src={require("../../assets/images/animation_image.gif")}
               ></img>

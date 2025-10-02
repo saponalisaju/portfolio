@@ -44,7 +44,7 @@ export default function Greeting() {
                   <a
                     href="./MD.pdf"
                     className="download-link-button"
-                    download
+                    download="MD.pdf"
                     rel="noopener noreferrer"
                     aria-label="Download MD Sapon Ali's resume"
                   >
