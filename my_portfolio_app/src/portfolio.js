@@ -26,7 +26,7 @@ const greeting = {
   ),
 
   resumeLink:
-    "https://docs.google.com/document/d/1iv7ts4ILzi6KF1Z5q1j82Gmg7Te-97Z80nk5fCDz2CU/edit?tab=t.0",
+    "https://drive.google.com/uc?export=download&id=16I4qnWR5IXy8AaVoim_E8sqVJUBZgYrTUxLvDKKVrNQ",
   displayGreeting: true
 };
 
