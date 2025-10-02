@@ -42,10 +42,11 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href="https://drive.google.com/uc?export=download&id=16I4qnWR5IXy8AaVoim_E8sqVJUBZgYrTUxLvDKKVrNQ"
+                    href="/MD.pdf"
                     className="download-link-button"
-                    target="_blank"
+                    download
                     rel="noopener noreferrer"
+                    aria-label="Download MD Sapon Ali's resume"
                   >
                     <Button text="Download my resume" />
                   </a>
