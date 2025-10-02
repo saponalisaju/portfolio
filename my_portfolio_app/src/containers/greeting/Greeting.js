@@ -44,6 +44,8 @@ export default function Greeting() {
                   <a
                     href="https://drive.google.com/uc?export=download&id=16I4qnWR5IXy8AaVoim_E8sqVJUBZgYrTUxLvDKKVrNQ"
                     className="download-link-button"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <Button text="Download my resume" />
                   </a>
