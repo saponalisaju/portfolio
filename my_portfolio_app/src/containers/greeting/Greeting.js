@@ -35,19 +35,20 @@ export default function Greeting() {
               >
                 {greeting.subTitle}
               </p>
+
               <div id="resume" className="empty-div"></div>
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
-                    download="Resume.pdf"
+                    href="https://drive.google.com/uc?export=download&id=16I4qnWR5IXy8AaVoim_E8sqVJUBZgYrTUxLvDKKVrNQ"
                     className="download-link-button"
                   >
                     <Button text="Download my resume" />
                   </a>
                 )}
+                {/*for this page is in use=> download="https://drive.google.com/uc?export=download&id=16I4qnWR5IXy8AaVoim_E8sqVJUBZgYrTUxLvDKKVrNQ" */}
               </div>
             </div>
           </div>
