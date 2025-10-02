@@ -23,7 +23,7 @@ export default function Skills() {
               <img
                 className="man_working"
                 alt="Man Working"
-                src={require("../../assets/images/animation_image.gif")}
+                src={require("../../assets/images/updated_1.jpg")}
               ></img>
             )}
           </div>
