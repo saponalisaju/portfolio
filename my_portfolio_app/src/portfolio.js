@@ -93,6 +93,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
       skillName: "github",
       fontAwesomeClassname: "fab fa-github"
     },
