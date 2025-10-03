@@ -233,7 +233,7 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/Logo 2 Final.png"),
-      projectName: "Travel Test App",
+      projectName: "Tour and Travel",
       projectDesc: "",
       footerLink: [
         {
@@ -243,7 +243,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/logo final.png"),
+      image: require("./assets/images/clothes_ban.jpeg"),
       projectName: "E-Commerce App",
       projectDesc: "",
       footerLink: [
@@ -254,7 +254,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/logo_abc.png"),
+      image: require("./assets/images/admin_ban.jpeg"),
       projectName: "E-commerce Admin",
       projectDesc: "",
       footerLink: [
