@@ -238,7 +238,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Live Demo",
-          url: "https://traveltestdemoapp.netlify.app/"
+          url: "https://visaglobal24.com"
         }
       ]
     },
@@ -249,7 +249,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Live Demo",
-          url: "https://ecomclothes.netlify.app/"
+          url: "https://allcartify.com"
         }
       ]
     },
